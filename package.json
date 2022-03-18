@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alaa",
+	"description": "A freecodecamp project to learn managing Node.js projects and npm packages",
+	"keywords": [
+		"freecodecamp",
+		"Node.js",
+		"npm"
+	],
+  "license": "MIT",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
